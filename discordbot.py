@@ -3,7 +3,7 @@ import googletrans
 import os
 from pprint import pprint
 # 輸入自己Bot的TOKEN碼
-TOKEN = os.environ['TOKEN']
+TOKEN = os.environ['MTI2MjQ2OTc4MTIzMjI5MjA4Mg.GNzJgE.v1HCHD3d7NCkFZ4Lt3EC6IRUnM0UQJ1KbpBaPI']
 SRCLanguage=os.environ['SRC']
 DSTLanguage=os.environ['DST']
 
